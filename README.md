@@ -1,6 +1,6 @@
 # AshMart - A Food Delivery Platform
 
-Link to the Youtube Video:- https://www.youtube.com/watch?v=vnLV0e6arrk&ab_channel=aakashkhot
+Link to the Youtube Video:- https://www.youtube.com/watch?v=vnLV0e6arrk
 
 [![](https://img.youtube.com/vi/vnLV0e6arrk/0.jpg)](https://www.youtube.com/watch?v=vnLV0e6arrk)
 
