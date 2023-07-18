@@ -2,7 +2,7 @@
 
 Link to the Youtube Video:- https://www.youtube.com/watch?v=vnLV0e6arrk&ab_channel=aakashkhot
 
-[![Everything Is AWESOME](https://www.youtube.com/watch?v=vnLV0e6arrk&ab_channel=aakashkhot/0.jpg)](https://www.youtube.com/watch?v=vnLV0e6arrk&ab_channel=aakashkhot)
+[![Click here to Watch!!](https://img.youtube.com/watch?v=vnLV0e6arrk&ab_channel=aakashkhot/0.jpg)](https://www.youtube.com/watch?v=vnLV0e6arrk&ab_channel=aakashkhot)
 
 1) MERN React app: Developed a user-friendly food delivery platform with secure authentication.
 
